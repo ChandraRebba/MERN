@@ -1,0 +1,58 @@
+.css
+.myForm {
+    justify-content: center;
+    text-align: center;
+    display: block;
+    position: relative;
+    margin-top: 20px;
+}
+.divStyle {
+    flex-direction: column;
+    width: 45%;
+    position: relative;
+    margin: auto;
+    border-radius: 15px;
+    border: 2px solid #c8e6c9;
+	display: none;
+}
+.components {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.textField {
+    width: 450px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.datePicker {
+    width: 450px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.errorMsg {
+    color: red;
+    font-size: 16px;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.buttonDiv {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+.button {
+    font-size: 14px;
+}
+.toggleBtn
+{
+	float: right;
+	display:block;
+    margin-right:0px;
+    clear:left;
+	
+}
